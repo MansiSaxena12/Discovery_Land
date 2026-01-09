@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Cabo San Lucas, Mexico",
+    "title": "Chileno Bay Golf & Beach Club",
+    "temperature": "68°F",
+    "wind": "4 mph",
+    "direction": "60°",
+    "coords": "22.95365° N / -109.816218° W",
+    "image": "https://www.datocms-assets.com/128889/1714136924-chileno_landscape.jpg"
+  },
+  {
+    "country": "Austin, Texas",
+    "title": "Austin Surf Club",
+    "temperature": "75°F",
+    "wind": "6 mph",
+    "direction": "120°",
+    "coords": "30.2672° N / -97.7431° W",
+    "image": "https://www.datocms-assets.com/128889/1717077744-glasert_20220630sr_3213.jpg"
+  },
+  {
+    "country": "Montana, USA",
+    "title": "Crazy Mountain Ranch",
+    "temperature": "55°F",
+    "wind": "8 mph",
+    "direction": "90°",
+    "coords": "45.6770° N / -110.5610° W",
+    "image": "https://www.datocms-assets.com/128889/1742426220-horseback.jpg"
+  }
+]
